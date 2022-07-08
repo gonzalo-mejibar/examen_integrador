@@ -1,4 +1,7 @@
 # examen_integrador
+   Grupo _07
 
-gonzalo mejibar
-carlos garavitoe
+CArlos eduardo garavito estrada
+Gonzalo mejibar 
+deyler omar vivas 
+German voelkli 
